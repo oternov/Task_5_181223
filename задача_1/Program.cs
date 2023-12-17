@@ -3,9 +3,9 @@
 // возвращает значение этого элемента или же указание,
 // что такого элемента нет.
 
-Console.WriteLine("Введите номер строки массива");
+Console.WriteLine("Введите индекс строки массива");
 int row = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите номер столбца массива");
+Console.WriteLine("Введите индекс столбца массива");
 int column = Convert.ToInt32(Console.ReadLine());
 
 int[,] array = new int[4,5];
@@ -25,7 +25,7 @@ void PrintArray()
 
 void ElementArray()
 {
-    if (row > array.GetLength(0) || column > array.GetLength(1))
+    if (row > array.GetLength(0)-1 || column > array.GetLength(1)-1)
     {
         Console.WriteLine("Такого элемента в заданном масиве нет");
     }
@@ -35,9 +35,9 @@ void ElementArray()
         {
             for (int j = 0; j < array.GetLength(1); j++)
             {
-                if (row == i+1 && column == j+1)
+                if (row == i && column == j)
                 {
-                    Console.WriteLine($"Элемент, находящийся на {row} строке и {column} столбце, равен {array[i,j]}.");
+                    Console.WriteLine($"Элемент с индексом строки {row} и индексом столбца {column} равен {array[i,j]}.");
                 }
             }
         }
