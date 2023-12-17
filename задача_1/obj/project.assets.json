@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача_1\\задача_1.csproj",
-      "projectName": "задача_1",
-      "projectPath": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача_1\\задача_1.csproj",
+      "projectUniqueName": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача1\\задача1.csproj",
+      "projectName": "задача1",
+      "projectPath": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача1\\задача1.csproj",
       "packagesPath": "C:\\Users\\otern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача_1\\obj\\",
+      "outputPath": "C:\\Users\\otern\\Desktop\\ДЗ_5\\задача1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\otern\\AppData\\Roaming\\NuGet\\NuGet.Config"
