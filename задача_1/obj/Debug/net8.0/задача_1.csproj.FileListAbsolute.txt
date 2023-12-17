@@ -1,0 +1,14 @@
+C:\Users\otern\Desktop\ДЗ_5\задача_1\bin\Debug\net8.0\задача_1.exe
+C:\Users\otern\Desktop\ДЗ_5\задача_1\bin\Debug\net8.0\задача_1.deps.json
+C:\Users\otern\Desktop\ДЗ_5\задача_1\bin\Debug\net8.0\задача_1.runtimeconfig.json
+C:\Users\otern\Desktop\ДЗ_5\задача_1\bin\Debug\net8.0\задача_1.dll
+C:\Users\otern\Desktop\ДЗ_5\задача_1\bin\Debug\net8.0\задача_1.pdb
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.AssemblyInfoInputs.cache
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.AssemblyInfo.cs
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.csproj.CoreCompileInputs.cache
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.dll
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\refint\задача_1.dll
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.pdb
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\задача_1.genruntimeconfig.cache
+C:\Users\otern\Desktop\ДЗ_5\задача_1\obj\Debug\net8.0\ref\задача_1.dll
